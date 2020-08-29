@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm woojeong</h1>
-<h3 align="center">도전하는 사람</h3>
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=woodongk&color=brightgreen)
-" alt="woodongk" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=woodongk&color=brightgreen)/> </p>
 
 
 ### 😀 About Me
