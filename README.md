@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: gks3284@ajou.ac.kr
 
-- ⚡ Research Interest: Human-Computer Interaction (HCI), Social Computing, Natural Language Processing (NLP), Text Mining, Machine-Learning, AI
+- ⚡ Research Interest: Natural Language Processing (NLP), Text Mining, Machine-Learning, AI, Human-Computer Interaction (HCI), Social Computing, 
 
 - 👻
   - Instagram: https://www.instagram.com/wj__202
