@@ -12,10 +12,9 @@
 ### 🏖 History
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **🎓** | 2015. 3 ~ 2018. 2 | B.S.  Department of Digital Media  &
-B.S.  Department of Software & Computer Engineering | **Ajou University** |
+| **🎓 Education** | 2015. 3 ~ 2018. 2 | B.S. Department of Digital Media & B.S. Department of Software and Computer Engineering | **Ajou University** |
 | **Research activities** | 2017. 07 ~ 2018. 3 | Undergraduate Research Students | **Ajou Univ. HCI Lab** |
-| **🎓** | 2018. 3 ~ | M.S.  Department of Computer Engineering | **Ajou University** |
+| **🎓 Education** | 2018. 3 ~ | M.S.  Department of Computer Engineering | **Ajou University** |
 
 ### 💻 Skills
 <div>
