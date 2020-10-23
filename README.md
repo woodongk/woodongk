@@ -26,4 +26,4 @@
 
 
 ### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gks3284@ajou.ac.kr)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gks3284@ajou.ac.kr)](gks3284@ajou.ac.kr)
