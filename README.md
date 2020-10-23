@@ -26,4 +26,4 @@
 
 
 ### 📫 How to reach me
-![Gmail Badge](gks3284@ajou.ac.kr:)
+- gks3284@ajou.ac.kr
