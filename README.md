@@ -2,7 +2,7 @@
 
 ### 😀 About Me
 
-- My name is Kim WooJeong 👩🏻, I graduated from Ajou University in 2015 majoring in **Digital Media** and **Software Computer Engineering** 🎓. I’m currently in the Master program in the Department of **Computer Science and Engineering** at Ajou University 🏃‍♀️.  I am very interested in **Machine Learning** and **Deep Learning**, especially in **Natural Language Processing (NLP)** 🔭. I have a project experience using c language, java & Android, and **python 💪**. 
+- My name is Kim WooJeong 👩🏻, I graduated from Ajou University in 2015 majoring in **Digital Media** and **Software Computer Engineering** 🎓 I’m currently in the Master program in the Department of **Computer Science and Engineering** at Ajou University 🏃‍♀️  I am very interested in **Machine Learning** and **Deep Learning**, especially in **Natural Language Processing (NLP)** 🔭 I have a project experience using c language, java & Android, and **python 💪**
 
 - 👻
   - Instagram: https://www.instagram.com/wj__202
