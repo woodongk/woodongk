@@ -23,7 +23,7 @@ I’m currently in the Master program in the Department of **Computer Science an
   - book-log : http://blog.naver.com/gks3284
 
 ### Tech Blog
-    - study-log : https://woodong.netlify.app/
+   - study-log : https://woodong.netlify.app/
 
 ### 📫 How to reach me
 - gks3284@ajou.ac.kr
