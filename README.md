@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm woojeong</h1>
 
 ### 🔭
-I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, especially in **Natural Language Processing(NLP)**. I have a project experience using c language, java & Android, and **python 💪**
+I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, especially in **Natural Language Processing(NLP)**. I have a project experience using C language, Java & Android, and **python 💪**
 
 ### 🔥
 I’m currently in the Master program in the Department of **Computer Science and Engineering** at Ajou University and am planning to graduate in 2021. I received my Bachelors in **Digital Media** and **Software Computer Engineering** from the Ajou Univerisy in 2015.
