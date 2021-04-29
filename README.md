@@ -14,10 +14,7 @@ I’m currently in the Master program in the Department of **Computer Science an
 
 ### Personal Profile
   - Instagram: https://www.instagram.com/wj__202
-  - book-log : http://blog.naver.com/gks3284
-
-### Tech Blog
-   - study-log : https://woodong.netlify.app/
+  - blog : https://wooodong.tistory.com/
 
 ### 📫 How to reach me
 - gks3284@ajou.ac.kr
