@@ -7,10 +7,10 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, e
 I’m currently in the Master program in the Department of **Computer Science and Engineering** at Ajou University and am planning to graduate in 2021. I received my Bachelors in **Digital Media** and **Software Computer Engineering** from the Ajou Univerisy in 2015.
 
 | **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
-| **🎓 Education** | 2015.3 ~ 2019.2 | B.S. Department of Digital Media & <br> B.S. Department of Software and Computer Engineering | **Ajou Univ.** |
-| **📝 Research Intern** | 2017. 07 ~ 2019. 3 | Undergraduate Research Students | **Ajou HCI Lab** |
-| **🎓 Education** | 2019.3 ~ 2021.2 | M.S.  Department of Computer Engineering | **Ajou Univ.** |
+|:--------|:--------|:--------|:--------|
+| **🎓 Education** | 2015.03 ~ 2019.02 | B.S. Department of Digital Media & <br> B.S. Department of Software and Computer Engineering | **Ajou Univ.** |
+| **📝 Research Intern** | 2017.07 ~ 2019.03 | Undergraduate Research Students | **Ajou HCI Lab** |
+| **🎓 Education** | 2019.03 ~ 2021.02 | M.S.  Department of Computer Engineering | **Ajou Univ.** |
 
 ### Personal Profile
   - Instagram: https://www.instagram.com/wj__202
