@@ -8,9 +8,9 @@ I’m currently in the Master program in the Department of **Computer Science an
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **🎓 Education** | 2015.3 ~ 2018.2 | B.S. Department of Digital Media & B.S. Department of Software and Computer Engineering | **Ajou University** |
-| **📝 Research Intern** | 2017. 07 ~ 2018. 3 | Undergraduate Research Students | **Ajou HCI Lab** |
-| **🎓 Education** | 2018.3 ~ 2021.2 | M.S.  Department of Computer Engineering | **Ajou University** |
+| **🎓 Education** | 2015.3 ~ 2019.2 | B.S. Department of Digital Media & B.S. Department of Software and Computer Engineering | **Ajou Univ.** |
+| **📝 Research Intern** | 2017. 07 ~ 2019. 3 | Undergraduate Research Students | **Ajou HCI Lab** |
+| **🎓 Education** | 2019.3 ~ 2021.2 | M.S.  Department of Computer Engineering | **Ajou Univ.** |
 
 ### Personal Profile
   - Instagram: https://www.instagram.com/wj__202
