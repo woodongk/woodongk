@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodongk&count_bg=%23FEA443&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/woodongk)
 [![gks3284@ajou.ac.kr](https://img.shields.io/badge/Gmail-D6655A?style=flat&logo=Gmail&logoColor=white)](mailto:gks3284@ajou.ac.kr)
 [![Instagram](https://img.shields.io/badge/Instagram-DC9C76?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wj__202)
-[![Techblog](https://img.shields.io/badge/Tech%20Blog-74A588?style=flat&logo=Instagram&logoColor=white)](https://wooodong.tistory.com)
+[![Techblog](https://img.shields.io/badge/Tech%20Blog-74A588?style=flat&logo=GitHub&logoColor=white)](https://wooodong.tistory.com)
 
 ### Who Am I
 - 🚀 ENFP
