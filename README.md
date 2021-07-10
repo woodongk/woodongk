@@ -21,7 +21,7 @@
 ### 💥 About me
 [![gks3284@ajou.ac.kr](https://img.shields.io/badge/Gmail-D6655A?style=flat&logo=Gmail&logoColor=white)](mailto:gks3284@ajou.ac.kr)
 [![Instagram](https://img.shields.io/badge/Instagram-DC9C76?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wj__202)
-[![Techblog](https://img.shields.io/badge/Tech Blog-74A588?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wj__202)
+[![Techblog](https://img.shields.io/badge/Tech%20Blog-74A588?style=flat&logo=Instagram&logoColor=white)](https://wooodong.tistory.com)
 
 ### 📫 How to reach me
 - gks3284@ajou.ac.kr
