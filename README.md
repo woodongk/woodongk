@@ -21,4 +21,7 @@
 | **🎓 Master's degree** | 2019.03 ~ 2021.02 | Ajou HCI Lab in Ajou University |
 | **📝 Research Intern** | 2017.07 ~ 2019.03 | Ajou HCI Lab in Ajou University |
 | **🎓 Bachelor's degree** | 2015.03 ~ 2019.02 | Digital Media & Software and Computer Engineering in Ajou University | -->
-  
+
+<!--
+<p align = "left">
+  <img src="https://github-readme-stats.vercel.app/api?username=woodongk&show_icons=true" height=160/> -->
