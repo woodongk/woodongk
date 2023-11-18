@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodongk&count_bg=%23FEA443&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/woodongk)
 [![gks3284@naver.com](https://img.shields.io/badge/Naver-brightgreen?style=flat&logo=Naver&logoColor=white)](mailto:gks3284@naver.com)
 [![Instagram](https://img.shields.io/badge/Instagram-DC9C76?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wooodongk)
-[![Booklog](https://img.shields.io/badge/-Book%20Log-blue?style=flat&logo=stardock)](https://blog.naver.com/gks3284)
+[![Booklog](https://img.shields.io/badge/-Book%20Log-blue?style=flat&logo=stardock)](https://blog.naver.com/wooodongk)
 
 
 ### Who Am I
